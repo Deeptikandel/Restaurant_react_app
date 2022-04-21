@@ -3,8 +3,8 @@ const Menu = [
     id: 1,
     image: "images/paratha.jpg",
     name: "paratha",
-    category: "breakfast",
-    price: "10€",
+    category: "dinner",
+    price: 10,
     description:
       "I love Maggi realy oo yues  Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
   },
@@ -13,7 +13,7 @@ const Menu = [
     image: "images/samosa.jpg",
     name: "samosa",
     category: "evening",
-    price: "10€",
+    price: 22,
     description:
       "I love Maggi realy oo yues  Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
   },
@@ -22,7 +22,7 @@ const Menu = [
     image: "images/thali.jpg",
     name: "thali",
     category: "lunch",
-    price: "10€",
+    price: 7,
     description:
       "I love Maggi realy oo yues  Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
   },
@@ -31,7 +31,7 @@ const Menu = [
     image: "images/tikka.jpg",
     name: "tikka",
     category: "breakfast",
-    price: "10€",
+    price: 13,
     description:
       "I love Maggi realy oo yues  Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
   },
@@ -40,7 +40,7 @@ const Menu = [
     image: "images/paratha.jpg",
     name: "non-veg-thali",
     category: "evening",
-    price: "10€",
+    price: 11,
     description:
       "I love Maggi realy oo yues  Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
   },
@@ -49,7 +49,7 @@ const Menu = [
     image: "images/paratha.jpg",
     name: "samosa",
     category: "lunch",
-    price: "10€",
+    price: 10,
     description:
       "I love Maggi realy oo yues  Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
   },
@@ -57,8 +57,8 @@ const Menu = [
     id: 7,
     image: "images/tikka.jpg",
     name: "Tikka",
-    category: "breakfast",
-    price: "10€",
+    category: "dinner",
+    price: 10,
     description:
       "I love Maggi realy oo yues  Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
   },
@@ -67,7 +67,7 @@ const Menu = [
     image: "images/samosa.jpg",
     name: "Paratha",
     category: "breakfast",
-    price: "10€",
+    price: 8,
     description:
       "I love Maggi realy oo yues  Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
   },
@@ -76,7 +76,7 @@ const Menu = [
     image: "images/thali.jpg",
     name: "thali",
     category: "lunch",
-    price: "10€",
+    price: 20,
     description:
       "I love Maggi realy oo yues  Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
   }
